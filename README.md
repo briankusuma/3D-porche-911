@@ -1,7 +1,7 @@
 # 3D Porche 911
 ### <img src="porche 911.png" alt="porche 911.png">
 
-# This Website you cant scroll for zoom in/out or drag your mouse leftclick to rotate
+# This Website you can scroll for zoom in/out or drag your mouse leftclick to rotate
 Source 3D : 
 "FREE 1975 Porsche 911 (930) Turbo" (https://skfb.ly/6WZyV) by Karol Miklas is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). 
 
